@@ -82,7 +82,7 @@ Update availability based on stock.
 
 Track and manage orders placed by users.
 
-## **Be Happy** 
+## **Order in a smart way** 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://static.vecteezy.com/system/resources/previews/013/011/136/original/grocery-store-or-supermarket-with-food-product-shelves-racks-dairy-fruits-and-drinks-for-shopping-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg">
