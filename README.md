@@ -85,10 +85,11 @@ Track and manage orders placed by users.
 ## **Be Happy** 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/free-vector/online-grocery-shopping-illustration_52683-63859.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.freepik.com/free-vector/online-grocery-shopping-illustration_52683-63859.jpg">
-  <img alt="Illustration of an online grocery e-commerce application" src="[https://img.freepik.com/free-vector/online-grocery-shopping-illustration_52683-63859.jpg](https://static.vecteezy.com/system/resources/previews/013/011/136/original/grocery-store-or-supermarket-with-food-product-shelves-racks-dairy-fruits-and-drinks-for-shopping-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg)" width="500" height="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://static.vecteezy.com/system/resources/previews/013/011/136/original/grocery-store-or-supermarket-with-food-product-shelves-racks-dairy-fruits-and-drinks-for-shopping-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://static.vecteezy.com/system/resources/previews/013/011/136/original/grocery-store-or-supermarket-with-food-product-shelves-racks-dairy-fruits-and-drinks-for-shopping-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg">
+  <img alt="Illustration of a grocery store and supermarket shelves" src="https://static.vecteezy.com/system/resources/previews/013/011/136/original/grocery-store-or-supermarket-with-food-product-shelves-racks-dairy-fruits-and-drinks-for-shopping-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg" width="500" height="400">
 </picture>
+
 🤝 **Contributing**
 
 Contributions are always welcome! If you’d like to enhance GreenCart, fork the repo, create a new branch, and submit a pull request.
