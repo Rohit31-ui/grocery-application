@@ -1,4 +1,4 @@
-🛒 ##GreenCart – Grocery E-Commerce Application
+##GreenCart – Grocery E-Commerce Application
 
 GreenCart is a full-stack grocery e-commerce application that provides a seamless shopping experience for users and an efficient product management system for sellers. Built with a clean and intuitive UI, GreenCart ensures smooth navigation, secure transactions, and reliable order management.
 
