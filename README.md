@@ -1,15 +1,15 @@
-#🛒 GreenCart – Grocery E-Commerce Application
+🛒 #GreenCart – Grocery E-Commerce Application
 
 GreenCart is a full-stack grocery e-commerce application that provides a seamless shopping experience for users and an efficient product management system for sellers. Built with a clean and intuitive UI, GreenCart ensures smooth navigation, secure transactions, and reliable order management.
 
-#🚀 Features
+🚀 #Features
 🔐 Authentication & Security
 
 JWT-based authentication for secure login & session handling.
 
 Separate account types: User and Seller with role-based access.
 
-#👤 User Features
+👤 #User Features
 
 Browse and filter products by categories.
 
@@ -23,7 +23,7 @@ Cash on Delivery (COD).
 
 Track order status in real time.
 
-#🛍️ Seller Features
+🛍️ #Seller Features
 
 Add new products with details such as name, price, category, and availability.
 
@@ -31,13 +31,13 @@ Update availability status of products.
 
 Manage and track incoming orders from users.
 
-#🎨 UI/UX
+🎨 #UI/UX
 
 Clean, responsive, and user-friendly interface.
 
 Smooth navigation between categories, cart, and orders.
 
-#📦 Tech Stack
+📦 #Tech Stack
 
 Frontend: React.js (with TailwindCSS for styling)
 
